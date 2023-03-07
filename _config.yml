@@ -7,7 +7,7 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: greyco1or
 blog_url: https://blog.naver.com/starbux630
 email: starbux630@naver.com
 keybase_username: 
