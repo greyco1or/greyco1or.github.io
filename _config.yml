@@ -1,6 +1,6 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Seokhwan Kim
+description: Web & Blockchain Developer
+site_title: '@greyco1or - Seokhwan Kim'
 
 # Build settings
 markdown: kramdown
@@ -8,14 +8,14 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+blog_url: https://blog.naver.com/starbux630
+email: starbux630@naver.com
+keybase_username: 
+twitter_username: 
+reddit_username: 
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/myPhoto.jpg
 
 # Google Analytics ID
 google_analytics: 
