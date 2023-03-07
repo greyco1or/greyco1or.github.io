@@ -1,6 +1,6 @@
 .skillbar {
 	position:relative;
-	display:flex;
+	display:block;
 	margin-bottom:15px;
 	width:100%;
 	background:#eee;
@@ -23,6 +23,9 @@
 }
 
 .skillbar-title {
+	position:absolute;
+	top:0;
+	left:0;
   	width:120px;
 	font-weight:bold;
 	font-size:13px;
