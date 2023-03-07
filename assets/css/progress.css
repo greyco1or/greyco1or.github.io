@@ -1,6 +1,6 @@
 .skillbar {
 	position:relative;
-	display:block;
+	display:flex;
 	margin-bottom:15px;
 	width:100%;
 	background:#eee;
@@ -23,10 +23,7 @@
 }
 
 .skillbar-title {
-	position:absolute;
-	top:0;
-	left:0;
-  width:120px;
+  	width:120px;
 	font-weight:bold;
 	font-size:13px;
 	color:#ffffff;
@@ -36,8 +33,8 @@
 	-moz-border-radius-topleft:3px;
 	-moz-border-radius-bottomleft:3px;
 	border-top-left-radius:3px;
-  border-bottom-left-radius:3px;
-  font-size: 1.1rem;
+ 	border-bottom-left-radius:3px;
+  	font-size: 1.1rem;
 }
 
 .skillbar-title span {
