@@ -1,6 +1,6 @@
-title: Seokhwan Kim
+title: Seokhwan Kim(김석환)
 description: Web & Blockchain Developer
-site_title: '@greyco1or - Seokhwan Kim'
+site_title: "@greyco1or - Seokhwan Kim"
 
 # Build settings
 markdown: kramdown
@@ -10,12 +10,12 @@ exclude: [vendor/ruby]
 github_username: greyco1or
 blog_url: https://blog.naver.com/starbux630
 email: starbux630@naver.com
-keybase_username: 
-twitter_username: 
-reddit_username: 
+keybase_username:
+twitter_username:
+reddit_username:
 
 # absolute or relative
 profile_picture: assets/images/myPhoto.jpg
 
 # Google Analytics ID
-google_analytics: 
+google_analytics:
