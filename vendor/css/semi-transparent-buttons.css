@@ -3,8 +3,8 @@
   box-sizing: border-box;
   margin: 0 auto;
   padding: 8px;
-  max-width: 160px;
-  min-width: 120px;
+  max-width: 110px;
+  min-width: 80px;
   background: transparent; /* fallback color for old browsers */
   border-radius: 2px;
   color: #fff;
