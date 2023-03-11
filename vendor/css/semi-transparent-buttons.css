@@ -40,8 +40,8 @@
 }
 
 .white-button {
-  color: #222;
-  border: 1px solid #222;
+  /*color: #222; 
+  border: 1px solid #222; */
   min-width: 110px;
 }
 
