@@ -588,7 +588,7 @@ a {
 }
 @media screen and (max-height: 450px) and (max-width: 600px) {
   .head {
-    min-height: 525px;
+    min-height: 625px;
   }
 }
 
