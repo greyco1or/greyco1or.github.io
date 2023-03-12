@@ -155,7 +155,7 @@ img {
 
   display: grid;
   -ms-grid-columns: auto auto auto auto;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: auto auto auto auto auto;
   grid-column-gap: 10px;
 
   margin: 0 auto;
@@ -588,7 +588,7 @@ a {
 }
 @media screen and (max-height: 450px) and (max-width: 600px) {
   .head {
-    min-height: 625px;
+    min-height: 525px;
   }
 }
 
