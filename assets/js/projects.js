@@ -86,11 +86,6 @@ let project_mapper = (project) => {
       ? `<button onclick="location.href='${project.demo}'";>서비스 링크</button>`
       : ""
   }</p>
-                        //<p class="paragraph-text-normal">${
-                          project.description
-                        } ${
-    project.demo ? `<a href="${project.demo}">서비스 링크</a>` : ""
-  }</p>
                     </article>
 
                                 
@@ -112,3 +107,5 @@ let project_mapper = (project) => {
 let selected = (slug) => {
   render_projects(slug);
 };
+
+//<p class="paragraph-text-normal">${project.description} ${project.demo ? `<a href="${project.demo}">서비스 링크</a>` : ""}</p>
