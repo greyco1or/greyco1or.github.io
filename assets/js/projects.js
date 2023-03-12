@@ -42,7 +42,7 @@ let render_projects = (slug) => {
       title: "Tost Admin",
       demo: "https://admin.tost.gg/",
       technologies: ["Java", "Javascript", "Spring Boot"],
-      description: "DB형 Defi, Staking 서비스",
+      description: "DB형 Defi, Staking 서비스의 관리자 페이지",
       categories: ["featured", "webdev"],
     },
   ];
