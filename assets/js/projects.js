@@ -79,11 +79,17 @@ let project_mapper = (project) => {
         
                     <article class="card__article">
                         <h2><a href="${project.link}">${project.title}</a></h2>
-        
                         <p class="paragraph-text-normal">${
                           project.description
                         } ${
-    project.demo ? `<a href="${project.demo}">Demo</a>` : ""
+    project.demo
+      ? `<button onclick="location.href='${project.demo}'";>서비스 링크</button>`
+      : ""
+  }</p>
+                        //<p class="paragraph-text-normal">${
+                          project.description
+                        } ${
+    project.demo ? `<a href="${project.demo}">서비스 링크</a>` : ""
   }</p>
                     </article>
 
