@@ -16,7 +16,7 @@ let render_projects = (slug) => {
       demo: "http://130.162.131.42",
       technologies: ["Java", "Javascript", "Spring Boot"],
       description: "장부 분석 및 시세 api를 활용한 경제 기반 농산물 플랫폼",
-      categories: ["featured", "webdev"],
+      categories: ["featured", "webdev", "admin"],
     },
     {
       image: "assets/images/coinchart.png",
@@ -34,7 +34,7 @@ let render_projects = (slug) => {
       demo: "https://www.tost.gg/",
       technologies: ["Java", "Javascript", "Spring Boot"],
       description: "DB형 Defi, Staking 서비스",
-      categories: ["featured", "webdev", "Blockchain"],
+      categories: ["featured", "webdev", "blockchain"],
     },
     {
       image: "assets/images/tostAdmin.png",
@@ -43,7 +43,7 @@ let render_projects = (slug) => {
       demo: "https://admin.tost.gg/",
       technologies: ["Java", "Javascript", "Spring Boot"],
       description: "DB형 Defi, Staking 서비스의 관리자 페이지",
-      categories: ["featured", "webdev", "Blockchain"],
+      categories: ["featured", "webdev", "blockchain", "admin"],
     },
   ];
 
