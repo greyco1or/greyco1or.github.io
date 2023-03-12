@@ -10,23 +10,39 @@ let render_projects = (slug) => {
 
   let projects_obj = [
     {
-      image: "assets/images/mentors.jpg",
-      link: "https://github.com/abhn/Mporter",
-      title: "Mporter",
-      demo: "https://mporter.co",
-      technologies: ["Flask", "Celery", "Python"],
-      description:
-        "Flask web application for easy reporting updates to one's mentor. Multi-user support, easy to deploy and use.",
+      image: "assets/images/farmMarket.png",
+      link: "https://github.com/Bumja12/ks44team04",
+      title: "농산물 직거래 플랫폼",
+      demo: "http://130.162.131.42",
+      technologies: ["Java", "Javascript", "Spring Boot"],
+      description: "장부 분석 및 시세 api를 활용한 경제 기반 농산물 플랫폼",
       categories: ["featured", "webdev"],
     },
     {
-      image: "assets/images/mobile-landscape.jpg",
-      link: "https://github.com/abhn/Wall-E",
-      title: "Wall-E",
-      demo: "http://wall-e-jekyll.github.io/",
-      technologies: ["Semantic UI", "Jekyll"],
-      description:
-        "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
+      image: "assets/images/coinchart.png",
+      link: "https://github.com/greyco1or/coinchart",
+      title: "Coinchart",
+      demo: "https://github.com/greyco1or/coinchart",
+      technologies: ["Java", "Javascript", "Spring Boot"],
+      description: "Rest API와 스케줄러를 활용한 코인시세 조회",
+      categories: ["featured", "webdev"],
+    },
+    {
+      image: "assets/images/tost.png",
+      link: "https://www.tost.gg/",
+      title: "Tost",
+      demo: "https://www.tost.gg/",
+      technologies: ["Java", "Javascript", "Spring Boot"],
+      description: "DB형 Defi, Staking 서비스",
+      categories: ["featured", "webdev"],
+    },
+    {
+      image: "assets/images/tostAdmin.png",
+      link: "https://admin.tost.gg/",
+      title: "Tost Admin",
+      demo: "https://admin.tost.gg/",
+      technologies: ["Java", "Javascript", "Spring Boot"],
+      description: "DB형 Defi, Staking 서비스",
       categories: ["featured", "webdev"],
     },
   ];
