@@ -22,7 +22,7 @@ let render_projects = (slug) => {
       image: "assets/images/coinchart.png",
       link: "https://github.com/greyco1or/coinchart",
       title: "Coinchart",
-      demo: "https://github.com/greyco1or/coinchart",
+      //demo: "https://github.com/greyco1or/coinchart",
       technologies: ["Java", "Javascript", "Spring Boot"],
       description: "Rest API와 스케줄러를 활용한 코인시세 조회",
       categories: ["featured", "webdev"],
@@ -83,7 +83,7 @@ let project_mapper = (project) => {
                           project.description
                         } ${
     project.demo
-      ? `<button onclick="location.href='${project.demo}'";>서비스 링크</button>`
+      ? `<button onclick="location.href='${project.demo}'";>Link</button>`
       : ""
   }</p>
                     </article>
