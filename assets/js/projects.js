@@ -24,7 +24,7 @@ let render_projects = (slug) => {
       title: "Coinchart",
       //demo: "https://github.com/greyco1or/coinchart",
       technologies: ["Java", "Javascript", "Spring Boot"],
-      description: "Rest API와 스케줄러를 활용한 코인시세 조회",
+      description: "RestAPI와 스케줄러를 활용한 외화별 코인시세 조회",
       categories: ["featured", "webdev"],
     },
     {
