@@ -31,7 +31,7 @@ function blog_posts() {
             title: '[Solidity] 컨트랙트의 불변성, 소유(ownable), 함수제어자, 가스(가스비 최적화)',
         },
         {
-            url: 'https://www.nagekar.com/2018/01/jagriti-yatra.html',
+            url: 'https://blog.naver.com/starbux630/222907384984',
             title: '[Solidity] 매핑, msg.sender, require, 상속, storage와 memory, internal과 external, 인터페이스, 다수의 리턴',
         },
         {
